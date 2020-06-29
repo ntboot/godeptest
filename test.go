@@ -1,4 +1,4 @@
-package godeptest
+package main
 
 import "fmt"
 
