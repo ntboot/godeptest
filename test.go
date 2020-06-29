@@ -3,5 +3,5 @@ package godeptest
 import "fmt"
 
 func Testone(s string){
-	fmt.Println("hi chengjianguo")
+	fmt.Println("hi v0.18.3")
 }
