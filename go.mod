@@ -1,3 +1,3 @@
-module github.com/ntboot/godeptestt
+module github.com/ntboot/godeptest
 
 go 1.13
