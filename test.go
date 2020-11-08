@@ -3,7 +3,7 @@ package godeptest
 import "fmt"
 
 func Testone(s string){
-	fmt.Println("hello version jila..")
+	fmt.Println("hello version master..")
 }
 
 
