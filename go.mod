@@ -9,7 +9,7 @@ replace (
 )
 
 require (
-    gorm.io/gorm v1.20.5
+    gorm.io/gorm v1.20.5 // indirect
 
 
 
